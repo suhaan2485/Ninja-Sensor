@@ -10,12 +10,12 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.75h | 2 |
+| Week 1 | Tier 1 | 1.55h | 2 |
 
 ## Contents
 
 1. [2026-10-08 – I started of with the schematics and understanding what pcb i have to make this](#2026-10-08-i-started-of-with-the-schematics-and-understandin)
-2. [2026-10-08 – https://lapse.hackclub.com/timelapse/handoff/fVGzd6SueHLg](#2026-10-08-httpslapsehackclubcomtimelapsehandofffvgzd6suehlg)
+2. [2026-10-08 – I finished the schematics and then i added the footprints, decided on a ninja star design for my pcb layout and then i made the layout and routed the pcb.](#2026-10-08-i-finished-the-schematics-and-then-i-added-the-fo)
 
 ## Design
 
@@ -32,15 +32,12 @@ i added the extra 0.33 hours cuz sadly nothing was recording when i was on my se
 
 [Timelapse](https://lookout.hackclub.com/api/media/5ec3b1ee-c76a-4682-9c9f-6b925bf04373/video.mp4)
 
-### 2026-10-08 – https://lapse.hackclub.com/timelapse/handoff/fVGzd6SueHLg
+### 2026-10-08 – I finished the schematics and then i added the footprints, decided on a ninja star design for my pcb layout and then i made the layout and routed the pcb.
 
-**1.23h**
+**1.03h**
 
-https://lapse.hackclub.com/timelapse/handoff/fVGzd6SueHLg
- https://lapse.hackclub.com/timelapse/handoff/t_EtAHXd1z7v
+I finished the schematics and then i added the footprints, decided on a ninja star design for my pcb layout and then i made the layout and routed the pcb.
 
-I started of with the schematics and understanding what pcb i have to make this took me 30 mins then I added footprints all those kit files for everything then i choose some ninja star design for my pcb and then finished the routing i have to Put some Silkscreen logos too will do that in next journal
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/694804da39dd2e85bac18302474736f2a82f80e287c7ac9e848208b458af0194.png)
 
-[Timelapse](https://lookout.hackclub.com/api/media/7dd8c8d5-0c1b-40a8-867e-597237373703/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/60c53748-db18-46b5-af56-fa85894ba086/video.mp4)
+[Timelapse](https://lookout.hackclub.com/api/media/5f1b2ae9-a925-41a8-9f01-7b79308a4111/video.mp4)
