@@ -10,20 +10,21 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.5h | 1 |
+| Week 1 | Tier 1 | 0.68h | 1 |
 
 ## Contents
 
-1. [2026-10-08 – I started of with the schematics and understanding what pcb i have to make this took me 30 mins then I added footprints all those kit files for everything then i choose some ninja star design for my p](#2026-10-08-i-started-of-with-the-schematics-and-understandin)
+1. [2026-10-08 – I started of with the schematics and understanding what pcb i have to make this](#2026-10-08-i-started-of-with-the-schematics-and-understandin)
 
 ## Design
 
-### 2026-10-08 – I started of with the schematics and understanding what pcb i have to make this took me 30 mins then I added footprints all those kit files for everything then i choose some ninja star design for my p
+### 2026-10-08 – I started of with the schematics and understanding what pcb i have to make this
 
-**1.5h**
+**0.68h**
 
-I started of with the schematics and understanding what pcb i have to make this took me 30 mins then I added footprints all those kit files for everything then i choose some ninja star design for my pcb and then finished the routing i have to Put some Silkscreen logos too will do that in next journal
+I started of with the schematics and understanding what pcb i have to make this
+I also imported everything from the github pack which was provided so i have the proper component schematics and layouts, during this stage the schematics were just initialised they will be finished in the next journal entry.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/a10b3e5d0345104dbfbf18a8e4ad4c1b813644ec1c2f65a910f9a3b1e340d61d.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/569fc6bf9cf45e96b0bbc10ba7096a35cf106bd7f626d3921b5fbdb18ab775e4.png)
+[Timelapse](https://lookout.hackclub.com/api/media/5ec3b1ee-c76a-4682-9c9f-6b925bf04373/video.mp4)
