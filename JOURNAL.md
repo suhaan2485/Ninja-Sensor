@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 0.68h | 1 |
+| Week 1 | Tier 1 | 0.52h | 1 |
 
 ## Contents
 
@@ -20,10 +20,12 @@
 
 ### 2026-10-08 – I started of with the schematics and understanding what pcb i have to make this
 
-**0.68h**
+**0.52h**
 
 I started of with the schematics and understanding what pcb i have to make this
 I also imported everything from the github pack which was provided so i have the proper component schematics and layouts, during this stage the schematics were just initialised they will be finished in the next journal entry.
+
+i added the extra 0.33 hours cuz sadly nothing was recording when i was on my second screen somehow will try not to make same mistake again.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/a10b3e5d0345104dbfbf18a8e4ad4c1b813644ec1c2f65a910f9a3b1e340d61d.png)
 
