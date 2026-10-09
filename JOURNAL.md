@@ -51,4 +51,6 @@ I worked on first editing the pcb design to add some holes and all then i reaile
 
 ![Screenshot 2026-10-08 at 8.43.11 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/e5e02b84672a91a1d6c72145c4d3a12a127b83beecb8356db1301b9ba849997c.png)
 
+![Screenshot 2026-10-08 at 8.42.43 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/5166eb134b0d0d8b66a409a6c48fda5374f50d33748c65cea59a019d0f7f83f9.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/c7f224b9-e92b-461b-b280-48a78698eb3b/video.mp4)
