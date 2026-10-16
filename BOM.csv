@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$14.08,$14.08,https://cart.jlcpcb.com/shopcart/cart/?_t=1791526430390&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003
 "0.96"" OLED Display",1,ROBU,$2.50,$2.50,https://robu.in/product/0-96-oled-display-module/
 Seeed Studio DHT11,1,ROBU,$8.42,$8.42,https://robu.in/product/grove-temperature-humidity-sensor-dht11/
+MPU6050 Board,1,ROBU,$4.84,$4.84,https://robu.in/product/mpu6050hmc5883lbmp180-10dof-3-axis-gyro-3-axis-acceleration-3-axis-magnetic-field-air-pres/
 Estimated total shipping,1,,,$0.00,
