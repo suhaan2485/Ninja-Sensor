@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T13:16:03.760Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuwt6jin0amb01os119ylwcn). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A Basic Motion Sensor Interface with buttons & an LCD Screen !
 
