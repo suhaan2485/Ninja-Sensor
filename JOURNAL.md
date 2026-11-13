@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.2h | 6 |
+| Week 1 | Tier 1 | 6.37h | 6 |
 
 ## Contents
 
@@ -90,8 +90,10 @@ random gibberish ebccjbehrjrhvvbejrkhvkewsjhfvjhblksjbekjvblkdjbvdksjfbvksdjfbvl
 
 ### 2026-11-13: Work session
 
-**0.03h**
+**1.2h**
 
 Work session
 
 [Timelapse](https://lookout.hackclub.com/api/media/6290b4d8-295a-4ab2-8dd1-831f9d05f0a2/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/36f3cd44-49a9-4ddd-8683-47400b7badfe/video.mp4)
