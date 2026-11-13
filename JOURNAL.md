@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6.15h | 5 |
+| Week 1 | Tier 1 | 5.17h | 5 |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 2. [2026-10-08: I finished the schematics and then i added the footprints, decided on a ninja star design for my pcb layout and then i made the layout and routed the pcb.](#2026-10-08-i-finished-the-schematics-and-then-i-added-the-fo)
 3. [2026-10-09: I worked on first editing the pcb design to add some holes and all then i reailed the PCB isnt under 100x100 mm i made sure it would be under 100x100 by making the edges short and then i calculated th](#2026-10-09-i-worked-on-first-editing-the-pcb-design-to-add-s)
 4. [2026-10-11: Firstly i Had to do a lot of Changes in my PCB design luckily last minute i also remembered that i have to put the xiao such that the usb c can plug in  i did that then i had to also update my github](#2026-10-11-firstly-i-had-to-do-a-lot-of-changes-in-my-pcb-de)
-5. [2026-11-13: m mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmm](#2026-11-13-m-mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnn)
+5. [2026-11-13: false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false en](#2026-11-13-false-entry-false-entry-false-entry-false-entry-f)
 
 ## Design
 
@@ -73,16 +73,12 @@ Firstly i Had to do a lot of Changes in my PCB design luckily last minute i also
 
 ## Build
 
-### 2026-11-13: m mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmm
+### 2026-11-13: false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false en
 
-**1h**
+**0.02h**
 
-m mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmnm mjbhjmbjmvnbjmmbnnbnnnnnmmnmnmnmmnmnnmmnmnmnmnnnmmn
+false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry
 
-![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/6ddf314593747f95c933889fc50ef46ee809b067234111ea005eea8ff7be972c.png)
+![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/bd807898018ad9c2c39e90835a4c082ff503ba85772e5ff02f1cc0f2289f8e1e.png)
 
-![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/bf714a07b1e45011fffcdd607707d14240e8b848d8129fdd14c22fa872ccccfe.png)
-
-![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/bf714a07b1e45011fffcdd607707d14240e8b848d8129fdd14c22fa872ccccfe.png)
-
-![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/bf714a07b1e45011fffcdd607707d14240e8b848d8129fdd14c22fa872ccccfe.png)
+![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/d345e9afa1e9fbd0540a81ae80e8e6ca670c50db57a41cbdedb45bfd7aee21ff.png)
