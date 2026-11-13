@@ -33,17 +33,13 @@ Simple 2 Layer PCB Designed in KiCad
 <img width="1243" height="867" alt="image" src="https://github.com/user-attachments/assets/5b8af084-949d-47b6-a8f2-b86197740288" />
 
 
-## Bill Of Material (Imported From KiCad)
+## Bill Of Material 
 
-<img width="991" height="85" alt="image" src="https://github.com/user-attachments/assets/fc4ae05c-c4b6-4c25-9261-542c7e9cd0de" />
+## Bill of Materials (BOM)
 
-
-
-| Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet | Description | # |
-|---|---|---|---|---|---|---|---|---|---|
-| J1 | 1 | Conn_01x04_Pin |  |  |  | Imported Parts:Display_128x64_096_I2C |  | Generic connector, single row, 01x04, script generated | 1 |
-| J2 | 1 | Conn_01x08_Pin |  |  |  | Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical |  | Generic connector, single row, 01x08, script generated | 2 |
-| R1 | 1 | 10k |  |  |  | Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal |  | Resistor | 3 |
-| SW1,SW2 | 2 | SW_Push |  |  |  | Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB |  | Push button switch, generic, two pins | 4 |
-| U1 | 1 | DHT11 |  |  |  | Sensor:Aosong_DHT11_5.5x12.0_P2.54mm | http://akizukidenshi.com/download/ds/aosong/DHT11.pdf | 3.3V to 5.5V, temperature and humidity module, DHT11 | 5 |
-| U2 | 1 | XIAO-ESP32-C3-SMD |  |  |  | Imported Parts:XIAO-ESP32-C6-DIP |  |  | 6 |
+| Part / Material | Quantity | Unit Price (USD) | Buying Link |
+|---|---:|---:|---|
+| PCB | 1 | $14.08 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/?_t=1791526430390&spm=cart.2001&up_spm=Jlcpcb.Loginpage.1003) |
+| 0.96" OLED Display | 1 | $2.50 | [ROBU](https://robu.in/product/0-96-oled-display-module/) |
+| Seeed Studio DHT11 | 1 | $8.42 | [ROBU](https://robu.in/product/grove-temperature-humidity-sensor-dht11/) |
+| MPU6050 Board | 1 | $4.84 | [ROBU](https://robu.in/product/mpu6050hmc5883lbmp180-10dof-3-axis-gyro-3-axis-acceleration-3-axis-magnetic-field-air-pres/) |
