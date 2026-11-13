@@ -92,4 +92,6 @@ random gibberish ebccjbehrjrhvvbejrkhvkewsjhfvjhblksjbekjvblkdjbvdksjfbvksdjfbvl
 
 **1.17h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/36f3cd44-49a9-4ddd-8683-47400b7badfe/video.mp4)
