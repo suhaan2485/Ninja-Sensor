@@ -35,6 +35,10 @@ Simple 2 Layer PCB Designed in KiCad
 
 ## Bill Of Material (Imported From KiCad)
 
+<img width="991" height="85" alt="image" src="https://github.com/user-attachments/assets/fc4ae05c-c4b6-4c25-9261-542c7e9cd0de" />
+
+
+
 | Reference | Qty | Value | DNP | Exclude from BOM | Exclude from Board | Footprint | Datasheet | Description | # |
 |---|---|---|---|---|---|---|---|---|---|
 | J1 | 1 | Conn_01x04_Pin |  |  |  | Imported Parts:Display_128x64_096_I2C |  | Generic connector, single row, 01x04, script generated | 1 |
