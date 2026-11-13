@@ -18,7 +18,7 @@
 2. [2026-10-08: I finished the schematics and then i added the footprints, decided on a ninja star design for my pcb layout and then i made the layout and routed the pcb.](#2026-10-08-i-finished-the-schematics-and-then-i-added-the-fo)
 3. [2026-10-09: I worked on first editing the pcb design to add some holes and all then i reailed the PCB isnt under 100x100 mm i made sure it would be under 100x100 by making the edges short and then i calculated th](#2026-10-09-i-worked-on-first-editing-the-pcb-design-to-add-s)
 4. [2026-10-11: Firstly i Had to do a lot of Changes in my PCB design luckily last minute i also remembered that i have to put the xiao such that the usb c can plug in  i did that then i had to also update my github](#2026-10-11-firstly-i-had-to-do-a-lot-of-changes-in-my-pcb-de)
-5. [2026-11-13: false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false en](#2026-11-13-false-entry-false-entry-false-entry-false-entry-f)
+5. [2026-11-13: All Products Cart Screenshots](#2026-11-13-all-products-cart-screenshots)
 
 ## Design
 
@@ -73,12 +73,16 @@ Firstly i Had to do a lot of Changes in my PCB design luckily last minute i also
 
 ## Build
 
-### 2026-11-13: false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false en
+### 2026-11-13: All Products Cart Screenshots
 
 **0.02h**
 
-false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry false entry
+All Products Cart Screenshots
 
-![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/bd807898018ad9c2c39e90835a4c082ff503ba85772e5ff02f1cc0f2289f8e1e.png)
+![Screenshot 2026-11-13 at 3.07.25 PM](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/eafb4fc875c64e741bb1ec555da0054b9f29ab57d4d8b58006cd0c8ccf98993f.png)
 
-![image](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/d345e9afa1e9fbd0540a81ae80e8e6ca670c50db57a41cbdedb45bfd7aee21ff.png)
+![Screenshot 2026-11-13 at 3.08.37 PM](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/41dab53bf45de09b0d9da9fcb724b9f1cb39990a118bb6510014dc281f7e0a74.png)
+
+![Screenshot 2026-11-13 at 3.09.15 PM](https://halflife.hackclub-assets.com/sessions/G86oFItdqRoAj4LA03tdyggEScgoKbFL/0a9b50f644b507a001ab8f69f1acefd27db23373c87da1651f0b66653c2fcfa3.png)
+
+random gibberish ebccjbehrjrhvvbejrkhvkewsjhfvjhblksjbekjvblkdjbvdksjfbvksdjfbvlkjdbfljkvhbd,fkhjvbdjhfbv,jdhbfvj,dhbf,vjbfd,mnvbd,fjbv,djkfbhv,dhjkbvkjb.vkjbjkvhbjfb
