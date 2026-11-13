@@ -33,11 +33,9 @@ Simple 2 Layer PCB Designed in KiCad
 <img width="1243" height="867" alt="image" src="https://github.com/user-attachments/assets/5b8af084-949d-47b6-a8f2-b86197740288" />
 
 
-## Bill Of Material 
 
 ## Bill of Materials (BOM)
 
-## Bill of Materials (BOM)
 
 | Part / Material | Quantity | Unit Price (USD) | Total (USD) | Buying Link |
 |---|---:|---:|---:|---|
